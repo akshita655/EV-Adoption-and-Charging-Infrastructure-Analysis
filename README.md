@@ -1,50 +1,52 @@
-# Global EV Adoption & Charging Infrastructure Analysis
+# ⚡ Global EV Adoption & Charging Infrastructure Analysis
 
-An interactive **Tableau dashboard project** analyzing global electric vehicle (EV) adoption trends and charging infrastructure distribution.  
-The project explores EV market growth, regional adoption patterns, powertrain technologies, and the expansion of global charging networks.
+An interactive **Tableau data visualization project** exploring the rapid growth of **electric vehicles (EVs)** and the expansion of **global charging infrastructure**.
+
+This project analyzes EV adoption trends, regional market growth, powertrain technologies, and the global distribution of charging stations through **interactive dashboards and a guided Tableau Story**.
 
 ---
 
-## Project Overview
+## 📊 Project Overview
 
-The rapid transition toward electric mobility has increased the importance of understanding EV adoption patterns and infrastructure development.  
-This project uses **Tableau data visualization** to analyze global EV sales trends and the availability of charging infrastructure across different regions.
+As the world transitions toward sustainable transportation, understanding **EV market trends and charging infrastructure development** has become increasingly important.
 
-The dashboards provide insights into:
+This project leverages **Tableau dashboards** to uncover insights into:
 
-- Growth of EV adoption over time
-- Regional EV market trends
+- Global EV adoption trends
+- Regional EV market growth
 - Powertrain technology distribution
-- Global charging infrastructure availability
+- Charging infrastructure availability
 - Distribution of fast and slow charging stations
 
+The project presents these insights using **data storytelling**, making the analysis easy to understand and visually engaging.
+
 ---
 
-## Key Visualizations
+## 📈 Key Visualizations
 
 - **EV Adoption World Map** – Geographic distribution of EV adoption
-- **EV Sales Trend Over Time** – Annual EV sales growth analysis
-- **EV Sales by Country** – Leading markets for electric vehicles
-- **Powertrain Market Share** – BEV vs PHEV distribution
-- **Charging Infrastructure Map** – Global EV charging station locations
-- **Charging Stations by Country** – Infrastructure availability across regions
-- **Fast vs Slow Chargers** – Distribution of charger types
+- **EV Sales Trend Over Time** – Growth of EV sales across years
+- **EV Sales by Country** – Leading EV markets worldwide
+- **Powertrain Market Share** – Comparison of BEV and PHEV technologies
+- **Charging Infrastructure Map** – Global distribution of charging stations
+- **Charging Stations by Country** – Infrastructure availability by region
+- **Fast vs Slow Chargers** – Distribution of charging speeds
 
 ---
 
-## Tableau Story Structure
+## 📖 Tableau Story Structure
 
-The project uses Tableau’s **Story feature** to present insights step-by-step:
+The analysis is presented using **Tableau’s Story feature**, guiding users through insights step by step:
 
-1. Global EV Adoption Map  
-2. EV Market Analysis Dashboard  
-3. Global Charging Infrastructure Map  
-4. EV Infrastructure Analysis Dashboard  
-5. Key Insights and Conclusion
+1. **Global EV Adoption Map**  
+2. **EV Market Analysis Dashboard**  
+3. **Global Charging Infrastructure Map**  
+4. **EV Charging Infrastructure Dashboard**  
+5. **Key Insights & Conclusion**
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 - **Tableau Desktop**
 - **Microsoft Excel**
@@ -53,24 +55,24 @@ The project uses Tableau’s **Story feature** to present insights step-by-step:
 
 ---
 
-## Datasets Used
+## 📂 Datasets Used
 
 - Global EV adoption dataset (EV sales and market data)
 - Global EV charging infrastructure dataset
 
 ---
 
-## Key Insights
+## 🔎 Key Insights
 
-- EV adoption has grown significantly worldwide over the past decade.
-- China, Europe, and North America lead global EV sales.
-- Battery Electric Vehicles (BEVs) dominate the EV market.
+- EV adoption has grown rapidly worldwide over the past decade.
+- **China, Europe, and North America** lead the global EV market.
+- **Battery Electric Vehicles (BEVs)** dominate the EV landscape.
 - Charging infrastructure is expanding globally to support EV growth.
-- Fast DC chargers are increasing but AC chargers still represent the majority.
+- **Fast DC chargers are increasing**, although most stations remain AC chargers.
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 EV-Adoption-and-Infrastructure-Analysis/
 │
@@ -89,17 +91,14 @@ EV-Adoption-and-Infrastructure-Analysis/
 
 ---
 
-## How to Use
+## 🚀 How to Use
 
-1. Download the repository.
+1. Clone or download the repository.
 2. Open the Tableau workbook file: Tableau - Project - EV.twb
-3. Explore the dashboards and story points interactively.
+3. Explore the interactive dashboards and story points.
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **Akshita Dhiman**
-
-
-## Repository Structure
