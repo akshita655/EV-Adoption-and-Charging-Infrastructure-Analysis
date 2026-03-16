@@ -72,25 +72,6 @@ The analysis is presented using **Tableau’s Story feature**, guiding users thr
 
 ---
 
-## 📁 Repository Structure
-
-EV-Adoption-and-Infrastructure-Analysis/
-│
-├── Dashboard Screenshots/
-│ ├── Charging Infrastructure Insights.png
-│ ├── Conclusion.png
-│ ├── EV Charging Station Infrastructure Map.png
-│ ├── EV Distribution World Map.png
-│ └── EV Sales Dashboard.png
-│
-├── Datasets/
-│ ├── EVDataExplorer2025.xlsx
-│ └── charging_station.csv
-│
-└── Tableau - Project - EV.twb
-
----
-
 ## 🚀 How to Use
 
 1. Clone or download the repository.
